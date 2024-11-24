@@ -70,11 +70,30 @@ View supporting source documents for detailed insights.
 ├── requirements.txt         # List of dependencies
 ├── faiss_index/             # FAISS index for document retrieval
 └── README.md                # Documentation
-#### **Future Enhancements**
-Integration with real-time medical APIs.
-Multilingual support to serve diverse populations.
-Personalized health advice based on user preferences.
-Enhanced knowledge base with additional medical datasets.
+
+
+## **Future Enhancements**
+
+### 1. **Integration with Real-Time Medical APIs**
+- Add support for real-time updates from medical APIs (e.g., CDC, WHO, or public health organizations).
+- Enable dynamic responses to critical updates, such as pandemics or seasonal health alerts.
+- Ensure secure API integration for handling sensitive healthcare data.
+
+### 2. **Multilingual Support**
+- Expand the application's capabilities to provide responses in multiple languages.
+- Target underserved populations to ensure inclusivity.
+- Use advanced language models to maintain accuracy and empathy across translations.
+
+### 3. **Personalized Health Advice**
+- Implement user profiling to tailor health advice based on individual needs.
+- Include features like dietary recommendations, activity trackers, and symptom history analysis.
+- Ensure compliance with data privacy regulations, such as HIPAA and GDPR.
+
+### 4. **Enhanced Knowledge Base**
+- Continuously update the database with verified medical documents and research papers.
+- Include specialized medical fields, such as pediatrics, geriatrics, and mental health.
+- Collaborate with healthcare professionals to validate new content.
+
 
 ##### **Contributors**
 - **Sai Manikanta Kasireddy**  
