@@ -45,50 +45,49 @@ Altriva aims to resolve four major issues in healthcare:
    ```bash
    git clone https://github.com/<your-username>/Altriva.git
    cd Altriva
-Create a virtual environment:
-bash
-Copy code
+2. Create a virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate  # For Linux/macOS
 venv\Scripts\activate     # For Windows
-Install dependencies:
-bash
-Copy code
+3.Install dependencies:
+```bash
 pip install -r requirements.txt
-Run the application:
+4.Run the application:
 bash
-Copy code
 streamlit run MedicalChatbot.py
-How to Use
+### **How to Use**
 Launch the app in your browser after running the command.
 Type your medical question into the input box.
 Receive AI-generated responses based on your query.
 View supporting source documents for detailed insights.
-Folder Structure
-bash
-Copy code
+### **Folder Structure**
+'''bash
+
 .
 ├── MedicalChatbot.py        # Main chatbot script
 ├── Project_9.ipynb          # Jupyter Notebook for experiments
 ├── requirements.txt         # List of dependencies
 ├── faiss_index/             # FAISS index for document retrieval
 └── README.md                # Documentation
-Future Enhancements
+### **Future Enhancements**
 Integration with real-time medical APIs.
 Multilingual support to serve diverse populations.
 Personalized health advice based on user preferences.
 Enhanced knowledge base with additional medical datasets.
-Contributors
-Sai Manikanta Kasireddy
-GitHub Profile
-License
+
+### **Contributors**
+- **Sai Manikanta Kasireddy**  
+  [GitHub Profile](https://github.com/saikasireddy)
+
+
+### **License**
 This project is licensed under the MIT License.
 
-Acknowledgments
+### **Acknowledgments**
 Streamlit and LangChain for enabling rapid development.
 Open-source communities for their incredible AI tools and frameworks.
 markdown
-Copy code
 
 ---
 
@@ -99,4 +98,4 @@ Copy code
 4. Separate sections with a blank line for better readability.
 5. Test formatting using GitHub's Markdown preview.
 
-Let me know if you encounter further issues!
+
