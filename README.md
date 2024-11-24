@@ -68,11 +68,11 @@ View supporting source documents for detailed insights.
 '''bash
 
 .
-   ├── MedicalChatbot.py        # Main chatbot script
-   ├── Project_9.ipynb          # Jupyter Notebook for experiments
-   ├── requirements.txt         # List of dependencies
-   ├── faiss_index/             # FAISS index for document retrieval
-   └── README.md                # Documentation
+├── MedicalChatbot.py        # Main chatbot script
+├── Project_9.ipynb          # Jupyter Notebook for experiments
+├── requirements.txt         # List of dependencies
+├── faiss_index/             # FAISS index for document retrieval
+└── README.md                # Documentation
 
 
 ## **Future Enhancements**
