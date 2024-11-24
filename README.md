@@ -51,12 +51,12 @@ Altriva aims to resolve four major issues in healthcare:
     source venv/bin/activate  # For Linux/macOS
     venv\Scripts\activate     # For Windows
 
-3.Install dependencies:
-   ```bash
+3. Install dependencies:
+    ```bash
     pip install -r requirements.txt
-4.Run the application:
-  ```bash
-   streamlit run MedicalChatbot.py
+4. Run the application:
+   ```bash
+    streamlit run MedicalChatbot.py
 
 ## **How to Use**
 Launch the app in your browser after running the command.
