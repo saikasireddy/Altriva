@@ -46,30 +46,33 @@ Altriva aims to resolve four major issues in healthcare:
    git clone https://github.com/<your-username>/Altriva.git
    cd Altriva
 2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # For Linux/macOS
-venv\Scripts\activate     # For Windows
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # For Linux/macOS
+    venv\Scripts\activate     # For Windows
+
 3.Install dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 4.Run the application:
-bash
-streamlit run MedicalChatbot.py
-### **How to Use**
+  ```bash
+   streamlit run MedicalChatbot.py
+
+## **How to Use**
 Launch the app in your browser after running the command.
 Type your medical question into the input box.
 Receive AI-generated responses based on your query.
 View supporting source documents for detailed insights.
+
 ### **Folder Structure**
 '''bash
 
 .
-├── MedicalChatbot.py        # Main chatbot script
-├── Project_9.ipynb          # Jupyter Notebook for experiments
-├── requirements.txt         # List of dependencies
-├── faiss_index/             # FAISS index for document retrieval
-└── README.md                # Documentation
+   ├── MedicalChatbot.py        # Main chatbot script
+   ├── Project_9.ipynb          # Jupyter Notebook for experiments
+   ├── requirements.txt         # List of dependencies
+   ├── faiss_index/             # FAISS index for document retrieval
+   └── README.md                # Documentation
 
 
 ## **Future Enhancements**
