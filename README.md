@@ -101,8 +101,11 @@ View supporting source documents for detailed insights.
 ##### **Contributors**
 - **Sai Manikanta Kasireddy**  
   [GitHub Profile](https://github.com/saikasireddy)
+  
 - **Mohith Sai Yandra**
+  [GitHub Profile](https://github.com/yandramohithsai)
 - **Sri Sai Durga Katreddi**
+  [GitHub Profile](https://github.com/Durga-Katreddi)
 - **Saketh Kaveti**
 
 
