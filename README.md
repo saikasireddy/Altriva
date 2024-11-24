@@ -70,28 +70,28 @@ View supporting source documents for detailed insights.
 ├── requirements.txt         # List of dependencies
 ├── faiss_index/             # FAISS index for document retrieval
 └── README.md                # Documentation
-### **Future Enhancements**
+#### **Future Enhancements**
 Integration with real-time medical APIs.
 Multilingual support to serve diverse populations.
 Personalized health advice based on user preferences.
 Enhanced knowledge base with additional medical datasets.
 
-### **Contributors**
+##### **Contributors**
 - **Sai Manikanta Kasireddy**  
   [GitHub Profile](https://github.com/saikasireddy)
 
 
-### **License**
+###### **License**
 This project is licensed under the MIT License.
 
-### **Acknowledgments**
+###### **Acknowledgments**
 Streamlit and LangChain for enabling rapid development.
 Open-source communities for their incredible AI tools and frameworks.
 markdown
 
 ---
 
-### **Common Markdown Formatting Guidelines**
+###### **Common Markdown Formatting Guidelines**
 1. Use `#` for headings (e.g., `#`, `##`, `###`).
 2. Use `-` or `*` for bullet points in lists.
 3. Use triple backticks (\`\`\`) for code blocks.
