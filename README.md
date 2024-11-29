@@ -3,11 +3,10 @@
 [![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-blue)](https://langchain.com)
 
 ## **Overview**
-**Altriva** is an AI-powered medical assistant that tackles critical challenges in healthcare accessibility, information overload, and self-care guidance. Leveraging state-of-the-art AI technologies, Altriva enables users to access reliable health information, manage minor health concerns, and reduce unnecessary strain on healthcare systems.
-## Projects
-### Atria Project
-- [Atria Repository](https://github.com/saikasireddy/Atria)  
-  Deployed code for the Atria project, featuring [**Altriva** is an AI-powered medical assistant that tackles critical challenges in healthcare accessibility, information overload, and self-care guidance. Leveraging state-of-the-art AI technologies, Altriva enables users to access reliable health information, manage minor health concerns, and reduce unnecessary strain on healthcare systems.].
+**Altriva** is an AI-powered medical assistant designed to address critical challenges in healthcare accessibility, information overload, and self-care guidance. By leveraging state-of-the-art AI technologies, Altriva empowers users to access reliable health information, manage minor health concerns, and reduce unnecessary strain on healthcare systems.
+
+### **Atria Project**  
+Deployed code for the [Atria Repository](https://github.com/saikasireddy/Atria), featuring **Altriva**, the AI-powered medical assistant. This project focuses on utilizing advanced AI technologies to revolutionize healthcare accessibility, provide actionable self-care guidance, and streamline the delivery of reliable health information, reducing strain on healthcare systems.
 
 
 ---
