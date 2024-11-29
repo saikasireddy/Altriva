@@ -4,6 +4,11 @@
 
 ## **Overview**
 **Altriva** is an AI-powered medical assistant that tackles critical challenges in healthcare accessibility, information overload, and self-care guidance. Leveraging state-of-the-art AI technologies, Altriva enables users to access reliable health information, manage minor health concerns, and reduce unnecessary strain on healthcare systems.
+## Projects
+### Atria Project
+- [Atria Repository](https://github.com/saikasireddy/Atria)  
+  Deployed code for the Atria project, featuring [**Altriva** is an AI-powered medical assistant that tackles critical challenges in healthcare accessibility, information overload, and self-care guidance. Leveraging state-of-the-art AI technologies, Altriva enables users to access reliable health information, manage minor health concerns, and reduce unnecessary strain on healthcare systems.].
+
 
 ---
 
